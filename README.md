@@ -7,6 +7,7 @@ This cheat for Valorant offers an absolute advantage with smooth aiming, enemy a
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-1f883d?logo=github)
 ![Windows](https://img.shields.io/badge/Windows-compatible-1f883d?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NDkgOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg==)
 # [**DOWNLOAD RELEASE**](https://github.com/Matterofpergola/Valorant-External-Undetected-2026/releases/tag/valorant)
+# FREE 7 DAYS KEY - VALHK-RKA34-OR6B2M
 
 ![screenshot](drift.jpeg)
 
