@@ -3,6 +3,7 @@
 This cheat for Valorant offers an absolute advantage with smooth aiming, enemy agent visibility, instant shooting capabilities, and guaranteed hits, ensuring victory in every round without detection.
 
 
+
 ![version](https://img.shields.io/badge/version-4.2.8-1f883d?logo=github)
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-1f883d?logo=github)
 ![Windows](https://img.shields.io/badge/Windows-compatible-1f883d?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NDkgOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg==)
